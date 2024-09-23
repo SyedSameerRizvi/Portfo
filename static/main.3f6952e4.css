@@ -29,7 +29,7 @@
   }
 
   /* Mobile-specific styles */
-@media (max-width: 300px) {
+@media (max-width: 100px) {
   .hero-full-container {
     background-size: cover;
     background-position: left;
