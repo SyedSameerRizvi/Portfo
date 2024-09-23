@@ -63,7 +63,7 @@
 }
 
 /* Desktop-specific styles */
-@media (min-width: 769px) {
+@media (min-width: 500px) {
   .hero-full-container {
     background-size: cover;
     background-position: top;
